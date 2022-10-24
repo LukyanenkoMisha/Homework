@@ -1,1 +1,1 @@
-This is test project
+This is guide for my Hilel Project

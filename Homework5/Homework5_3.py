@@ -25,7 +25,7 @@ while True:
         else:
             non_paired += 1
 if count > 0:
-    print('1. Sum of Nubmers =', summ)
-    print('2. Average =', average)
-    print('3. Max Number =', var_max, 'Min Number =', var_min)
-    print('4. Amount of paired =', paired, 'Amount of not paired =', non_paired)
+    print('Sum of Nubmers =', summ)
+    print('Average =', average)
+    print('Max Number =', var_max, 'Min Number =', var_min)
+    print('Amount of paired =', paired, 'Amount of not paired =', non_paired)
